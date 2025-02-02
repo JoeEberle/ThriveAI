@@ -1,9 +1,9 @@
-2025-01-31 22:57:43,943 - INFO - START ThriveAI =============================================
-2025-01-31 22:57:43,943 - INFO - START ThriveAI Start Time = 2025-01-31 22:57:43
-2025-01-31 22:57:43,945 - INFO - ThriveAI Step 0 - Initialize the configuration file parser
-2025-01-31 22:57:43,945 - INFO - Process ThriveAI Step 0 - Initializing and starting Logging Process.
-2025-01-31 22:57:43,995 - INFO - PERFORMANCE ThriveAI The total process duration was:0.05
-2025-01-31 22:57:43,995 - INFO - PERFORMANCE ThriveAI Stop Time = 2025-01-31 22:57:43
-2025-01-31 22:57:43,995 - INFO - PERFORMANCE ThriveAI Short process duration less than 3 Seconds:0.05
-2025-01-31 22:57:43,995 - INFO - PERFORMANCE ThriveAI Performance optimization is not reccomended
-2025-01-31 22:57:43,995 - INFO - END ThriveAI =============================================
+2025-02-01 21:31:11,562 - INFO - START ThriveAI =============================================
+2025-02-01 21:31:11,562 - INFO - START ThriveAI Start Time = 2025-02-01 21:31:11
+2025-02-01 21:31:11,562 - INFO - ThriveAI Step 0 - Initialize the configuration file parser
+2025-02-01 21:31:11,562 - INFO - Process ThriveAI Step 0 - Initializing and starting Logging Process.
+2025-02-01 21:31:11,613 - INFO - PERFORMANCE ThriveAI The total process duration was:0.05
+2025-02-01 21:31:11,613 - INFO - PERFORMANCE ThriveAI Stop Time = 2025-02-01 21:31:11
+2025-02-01 21:31:11,613 - INFO - PERFORMANCE ThriveAI Short process duration less than 3 Seconds:0.05
+2025-02-01 21:31:11,614 - INFO - PERFORMANCE ThriveAI Performance optimization is not reccomended
+2025-02-01 21:31:11,614 - INFO - END ThriveAI =============================================
